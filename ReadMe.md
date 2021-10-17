@@ -12,7 +12,7 @@ LeetCode problems
 * [String](#)
 * [Tree](#)
 
-## [Reference]
+## Reference
 | Complexity | Possible Algorithms & Techniques |
 |------------|----------------------------------|
 | _O(1)_ | Math |
