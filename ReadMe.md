@@ -17,7 +17,7 @@ LeetCode problems
 | # | Title | Solution | Time | Space | Difficulty | Note |
 |---|-------|----------|------|-------|------------|------|
 
-## [Dynamic Programming](./Dynamic Programming)
+## [Dynamic Programming](./Dynamic-Programming)
 | # | Title | Solution | Time | Space | Difficulty | Note |
 |---|-------|----------|------|-------|------------|------|
 
@@ -33,7 +33,7 @@ LeetCode problems
 | # | Title | Solution | Time | Space | Difficulty | Note |
 |---|-------|----------|------|-------|------------|------|
 
-## [Linked List](./Linked List)
+## [Linked List](./Linked-List)
 | # | Title | Solution | Time | Space | Difficulty | Note |
 |---|-------|----------|------|-------|------------|------|
 
