@@ -33,7 +33,7 @@ LeetCode problems
 ## [Dynamic Programming](./Dynamic-Programming)
 | # | Title | Solution | Time | Space | Difficulty | Note |
 |---|-------|----------|------|-------|------------|------|
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C#](./Dynamic-Programming/unique-paths.cs) | _O(N * M)_ | _O(N x M)_ | Medium | DP |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C#](./Dynamic-Programming/unique-paths.cs) | _O(n * m)_ | _O(n * m)_ | Medium | DP |
 
 ## [Graph](./Graph)
 | # | Title | Solution | Time | Space | Difficulty | Note |
