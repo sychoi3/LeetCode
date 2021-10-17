@@ -29,6 +29,7 @@ LeetCode problems
 ## [Array](./Array)
 | # | Title | Solution | Time | Space | Difficulty | Note |
 |---|-------|----------|------|-------|------------|------|
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C#](./3sum.cs) | _O(n<sup>2</sup>)_ | _O(n)_ | Medium | |
 
 ## [Dynamic Programming](./Dynamic-Programming)
 | # | Title | Solution | Time | Space | Difficulty | Note |
