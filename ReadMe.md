@@ -3,7 +3,7 @@ LeetCode problems
 
 ## Algorithms
 
-* [Array](#)
+* [Array](https://github.com/sychoi3/LeetCode#array)
 * [Dynamic Programming](#)
 * [Graph](#)
 * [Heap](#)
