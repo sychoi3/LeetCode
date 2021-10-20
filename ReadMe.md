@@ -15,16 +15,16 @@ LeetCode problems
 ## Reference
 | Complexity | Possible Algorithms & Techniques |
 |------------|----------------------------------|
-| _O(1)_ | Math |
-| _O(logn)_ | Binary & Ternary Search / Matrix Power / Cycle Tricks / Big Simulation Steps / Values Reranking / Math |
+| _O(1)_ | Math / Hash Map Lookup  |
+| _O(log n)_ | Binary & Ternary Search / Matrix Power / Cycle Tricks / Big Simulation Steps / Values Reranking / Math |
 | _O(n)_ | Greedy / Ad-hoc / DP |
-| _O(nlogn)_ | Linear # Calls to Binary & Ternary Search / Pre-processing & Querying / Divide and Conquer |
+| _O(n log n)_ | Linear # Calls to Binary & Ternary Search / Pre-processing & Querying / Divide and Conquer |
 | _O(n<sup>2</sup>)_ | DP / Greedy |
 | _O(n<sup>3</sup>)_ | DP / Greedy |
 | _O(n<sup>4</sup>)_ | DP / Greedy |
 | _O(n<sup>5</sup>)_ | DP / Greedy |
-| _O(n×2<sup>n</sup>)_ | Backtracking |
-| _O(n!)_ | Factorial / Permutation / Combination Algorithm |
+| _O(n×2<sup>n</sup>)_ | Find all subsets / Backtracking |
+| _O(n!)_ | Permutation / Combination Algorithm |
 
 ## [Array](./Array)
 | # | Title | Solution | Time | Space | Difficulty | Note |
