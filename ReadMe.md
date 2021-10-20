@@ -36,8 +36,8 @@ LeetCode problems
 | 53 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [C#](./Array/maximum-subarray.cs) | _O()_ | _O()_ | Easy | |
 | 153 | [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C#](./Array/find-minimum-in-rotated-sorted-array.cs) | _O()_ | _O()_ | Medium | |
 | 33 | [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C#](./Array/search-in-rotated-sorted-array.cs) | _O()_ | _O()_ | Medium | |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C#](./Array/3sum.cs) | _O(n<sup>2</sup>)_ | _O(n)_ | Medium | |
-| 11 | [3Scontainer-with-most-waterum](https://leetcode.com/problems/container-with-most-water/) | [C#](./Array/container-with-most-water.cs) | _O()_ | _O()_ | Medium | |
+| 15 | [3sum](https://leetcode.com/problems/3sum/) | [C#](./Array/3sum.cs) | _O(n<sup>2</sup>)_ | _O(n)_ | Medium | |
+| 11 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) | [C#](./Array/container-with-most-water.cs) | _O()_ | _O()_ | Medium | |
 
 ## [Dynamic Programming](./Dynamic-Programming)
 | # | Title | Solution | Time | Space | Difficulty | Note |
