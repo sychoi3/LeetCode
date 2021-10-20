@@ -29,7 +29,15 @@ LeetCode problems
 ## [Array](./Array)
 | # | Title | Solution | Time | Space | Difficulty | Note |
 |---|-------|----------|------|-------|------------|------|
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C#](./Array/3sum.cs) | _O(n<sup>2</sup>)_ | _O(n)_ | Medium | |
+| 1 | [two-sum](https://leetcode.com/problems/two-sum/) | [C#](./Array/two-sum.cs) | _O()_ | _O()_ | Easy | |
+| 121 | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C#](./Array/best-time-to-buy-and-sell-stock.cs) | _O()_ | _O()_ | Easy | |
+| 217 | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/) | [C#](./Array/contains-duplicate.cs) | _O()_ | _O()_ | Easy | |
+| 238 | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) | [C#](./Array/product-of-array-except-self.cs) | _O()_ | _O()_ | Medium | |
+| 53 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [C#](./Array/maximum-subarray.cs) | _O()_ | _O()_ | Easy | |
+| 153 | [find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C#](./Array/find-minimum-in-rotated-sorted-array.cs) | _O()_ | _O()_ | Medium | |
+| 33 | [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C#](./Array/search-in-rotated-sorted-array.cs) | _O()_ | _O()_ | Medium | |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C#](./Array/3sum.cs) | _O()_ | _O()_ | Medium | |
+| 11 | [3Scontainer-with-most-waterum](https://leetcode.com/problems/container-with-most-water/) | [C#](./Array/container-with-most-water.cs) | _O()_ | _O()_ | Medium | |
 
 ## [Dynamic Programming](./Dynamic-Programming)
 | # | Title | Solution | Time | Space | Difficulty | Note |
