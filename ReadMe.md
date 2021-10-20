@@ -23,7 +23,7 @@ LeetCode problems
 | _O(n<sup>3</sup>)_ | DP / Greedy |
 | _O(n<sup>4</sup>)_ | DP / Greedy |
 | _O(n<sup>5</sup>)_ | DP / Greedy |
-| _O(n×2<sup>n</sup>)_ | Find all subsets / Backtracking |
+| _O(2<sup>n</sup>)_ | Find all subsets / Backtracking |
 | _O(n!)_ | Permutation / Combination Algorithm |
 
 ## [Array](./Array)
