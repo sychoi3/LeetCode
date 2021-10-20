@@ -4,13 +4,13 @@ LeetCode problems
 ## Algorithms
 
 * [Array](https://github.com/sychoi3/LeetCode#array)
-* [Dynamic Programming](#)
-* [Graph](#)
-* [Heap](#)
-* [Interval](#)
-* [Linked List](#)
-* [String](#)
-* [Tree](#)
+* [Dynamic Programming](https://github.com/sychoi3/LeetCode#dynamic-programming)
+* [Graph](https://github.com/sychoi3/LeetCode#graph)
+* [Heap](https://github.com/sychoi3/LeetCode#heap)
+* [Interval](https://github.com/sychoi3/LeetCode#interval)
+* [Linked List](https://github.com/sychoi3/LeetCode#linked-list)
+* [String](https://github.com/sychoi3/LeetCode#string)
+* [Tree](https://github.com/sychoi3/LeetCode#tree)
 
 ## Reference
 | Complexity | Possible Algorithms & Techniques |
